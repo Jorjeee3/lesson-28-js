@@ -1,8 +1,10 @@
 
+
+
 const toggleBtn = document.querySelector('button');
 
 function closeAlert() {
-    alert("Close me")
+    alert("Close me right now")
 }
 
 
